@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "name": "Microfono",
+        "price": 2000,
+        "description": "Microfono de alta calidad",
+        "image": "https://ejemplo.com/microfono.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Parlantes Bluetooth",
+        "price": 1300,
+        "description": "Parlantes de bluetooth",
+        "image": "https://ejemplo.com/parlantes-bluetooth.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Auriculares",
+        "price": 2500,
+        "description": "Auriculares casuales para el día a día",
+        "image": "https://ejemplo.com/auriculares.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Pc Gamer",
+        "price": 6000,
+        "description": "PC Gamer de alto rendimiento",
+        "image": "https://ejemplo.com/pc-gamer.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Camara web",
+        "price": 7500,
+        "description": "Alta definición",
+        "image": "https://ejemplo.com/microfono.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Monitor Gamer",
+        "price": 2500,
+        "description": "Optima para videjuegos",
+        "image": "https://ejemplo.com/monitor-gamer.jpg"
+    }
+]
