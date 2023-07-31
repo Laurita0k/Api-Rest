@@ -1,10 +1,8 @@
 const express = require('express');
 const app = express();
-const routes = require('./routes');
 
-app.use('/api', routes);
+const products = require(' ./routes/products');
 
-const port = 3000;
-app.listen(port, () => {
-  console.log(Servidor corriendo en el puerto ${port});
-});
+app.use('/api/products',products );
+
+app.listen(3000, () => console.log(`server corriendo en el puerto http://localhost:3000/`))
